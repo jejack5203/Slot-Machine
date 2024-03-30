@@ -1,4 +1,4 @@
-# Slot-Machine
+# Slot Machine Game
 Slot Machine Game
 
 Object: User bets an amount of money and if they spin 3 of the same symbols in a row in atleast 1 column or more, they earn that additional money, else they lose this from their original deposit
